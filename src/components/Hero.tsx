@@ -6,7 +6,7 @@ export default function Hero() {
       >
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white">
-            Hi, I'm <span className="text-blue-600 dark:text-blue-400">Your Name</span>
+            Hi, I'm <span className="text-blue-600 dark:text-blue-400">John</span>
           </h1>
           <p className="mt-6 text-lg md:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             A Software Designer crafting beautiful experiences that bridge the gap between design and development.
